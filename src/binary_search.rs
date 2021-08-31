@@ -1,4 +1,3 @@
-
 pub fn run(list: &[i32], number: i32) -> bool {
 	// Count cycles
 	let mut cycles = 0;
