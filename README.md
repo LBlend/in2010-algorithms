@@ -1,6 +1,6 @@
-# IN2010 Algorithms
+# IN2010 Implementations
 
-Rust implementation of algorithms taught in the course IN2010 - Algorithms and Data Structures at The University of Oslo
+Rust implementation of algorithms and data structures taught in the course IN2010 - Algorithms and Data Structures at the University of Oslo
 
 | Algorithm     | Status |
 | ------------- | ------ |

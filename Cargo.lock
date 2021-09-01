@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "in2010-algorithms"
+name = "in2010-implementations"
 version = "0.1.0"
