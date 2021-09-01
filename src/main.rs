@@ -1,4 +1,6 @@
-mod binary_search;
+mod algorithms;
+pub use algorithms::*;
+
 
 fn main() {
     binary_search();
