@@ -1,5 +1,5 @@
 [package]
-name = "in2010_algorithms"
+name = "in2010-algorithms"
 version = "0.1.0"
 edition = "2018"
 
