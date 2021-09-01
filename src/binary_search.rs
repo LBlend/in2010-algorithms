@@ -1,6 +1,5 @@
 pub fn run(list: &[i32], number: i32) -> bool {
-	// Count cycles
-	let mut cycles = 0;
+	let mut cycles = 0; // Count cycles
 
 	let mut low = 0;
 	let mut high = list.len() - 1;
